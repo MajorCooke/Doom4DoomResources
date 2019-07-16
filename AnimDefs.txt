@@ -1,0 +1,3 @@
+// Do not remove this file. Due to how GZDoom's code is set up, it's needed to
+// read into subdirectories created by Github when downloaded. This won't work
+// otherwise. It's intentionally left blank so it can trigger scanning properly.
